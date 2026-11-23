@@ -16,3 +16,4 @@ ehthumbs.db
 
 # VSCode 관련
 .vscode/
+*.log
