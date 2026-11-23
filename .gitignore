@@ -1,0 +1,18 @@
+# Node.js 관련
+node_modules/
+npm-debug.log*
+
+# macOS 관련
+.DS_Store
+.AppleDouble
+
+# Windows 관련
+Thumbs.db
+ehthumbs.db
+
+# IntelliJ 관련
+.idea/
+*.iml
+
+# VSCode 관련
+.vscode/
